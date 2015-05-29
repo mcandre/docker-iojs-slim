@@ -15,7 +15,9 @@ docker-iojs-slim is a container for io.js, made smaller with a few techniques:
 ```
 $ make
 docker run --rm mcandre/docker-iojs-slim iojs --version
-Error relocating /usr/bin/iojs: _ZSt24__throw_out_of_range_fmtPKcz: symbol not found
+v1.6.4
+docker run --rm mcandre/docker-iojs-slim npm --version
+2.7.5
 ```
 
 # REQUIREMENTS
