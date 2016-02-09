@@ -27,6 +27,7 @@ docker run --rm mcandre/docker-iojs-slim npm --version
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
